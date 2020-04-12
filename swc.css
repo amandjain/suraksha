@@ -19,10 +19,10 @@
   text-align: center;
 }
 #boxes #dialog {
-  width:300px; 
-  height:300px;
+  width:250px; 
+  height:250px;
   padding: 10px 10px 10px 10px;
-  background-color:#FFA07A;
+  background-color:#ffff00;
   font-size: 15pt;
 }
 
